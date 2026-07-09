@@ -1,0 +1,66 @@
+{
+    "basic": [
+        {
+            "pokedex_number": "0001",
+            "name": "Bulbasaur",
+            "type": ["grass", "poison"],
+            "img": "assets/img/pokemon/0001_bulbasaur.png"
+        }
+    ],
+    "fossil":[
+        {
+            "pokedex_number": "0138",
+            "name": "Omanyte",
+            "type": ["rock", "water"],
+            "img": "assets/img/pokemon/0138_omanyte.png"
+        }
+    ],
+    "pseudo_legendary":[
+        {
+            "pokedex_number": "0147",
+            "name": "Dratini",
+            "type": ["dragon"],
+            "img": "assets/img/pokemon/0147_dratini.png"
+        }
+    ],
+    "regional": [
+        {
+            "pokedex_number": "0019",
+            "name": "Alolan Rattata",
+            "type": ["normal", "dark"],
+            "img": "assets/img/pokemon/0019_rattata_alolan.png"
+        }
+    ],
+    "legendary": [
+        {
+            "pokedex_number": "0144",
+            "name": "Articuno",
+            "type": ["ice", "flying"],
+            "img": "assets/img/pokemon/0144_articuno.png"
+        }
+    ],
+    "legendary_regional": [
+        {
+            "pokedex_number": "0144",
+            "name": "Galarian Articuno",
+            "type": ["psychic", "flying"],
+            "img": "assets/img/pokemon/0144_articuno_galarian.png"
+        }
+    ],
+    "ultra_beasts": [
+        {
+            "pokedex_number": "0793",
+            "name": "Nihilego",
+            "type": ["rock", "poison"],
+            "img": "assets/img/pokemon/0793_nihilego.png"
+        }
+    ],
+    "paradox": [
+        {
+            "pokedex_number": "0984",
+            "name": "Great Tusk",
+            "type": ["ground", "fighting"],
+            "img": "assets/img/pokemon/0984_greattusk.png"
+        }
+    ]
+}
