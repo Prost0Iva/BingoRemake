@@ -28,10 +28,37 @@ main {
 }
 
 .bingo_cell{
+    background-image: url('/assets/img/UI/cell.png');
+    background-size: contain;
+    background-repeat: no-repeat;
     display: flex;
     width: 20%;
     height: 20%;
 }
-.bingo_cell img{
-    width: 100%;
+.completed {
+    background-image: url('/assets/img/UI/cell_completed.png');
+}
+#buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+#buttons button {
+    font-family: 'Bingo';
+    font-size: 16px;
+    color: white;
+    background-color: #1E1E1E;
+    margin-right: 8px;
+
+    text-align: center;
+    box-sizing: border-box;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+}#buttons button:hover {
+    color: #1E1E1E;
+    background-color: #777777;
 }

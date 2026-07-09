@@ -1028,7 +1028,7 @@
                 "psychic",
                 "fairy"
             ],
-            "img": "assets/img/pokemon/0122_mrmime.png"
+            "img": "assets/img/pokemon/0122_mr_mime.png"
         },
         {
             "pokedex_number": "0123",
@@ -6260,7 +6260,7 @@
                 "ice",
                 "psychic"
             ],
-            "img": "assets/img/pokemon/0866_mrrime.png"
+            "img": "assets/img/pokemon/0866_mr_rime.png"
         },
         {
             "pokedex_number": "0867",
@@ -7573,7 +7573,7 @@
             "type": [
                 "dragon"
             ],
-            "img": "assets/img/pokemon/0782_jangmoo.png"
+            "img": "assets/img/pokemon/0782_jangmo-o.png"
         },
         {
             "pokedex_number": "0783",
@@ -7582,7 +7582,7 @@
                 "dragon",
                 "fighting"
             ],
-            "img": "assets/img/pokemon/0783_hakamoo.png"
+            "img": "assets/img/pokemon/0783_hakamo-o.png"
         },
         {
             "pokedex_number": "0784",
@@ -7591,7 +7591,7 @@
                 "dragon",
                 "fighting"
             ],
-            "img": "assets/img/pokemon/0784_kommoo.png"
+            "img": "assets/img/pokemon/0784_kommo-o.png"
         },
         {
             "pokedex_number": "0885",
@@ -7910,7 +7910,7 @@
                 "ice",
                 "psychic"
             ],
-            "img": "assets/img/pokemon/0122_mrmime_galarian.png"
+            "img": "assets/img/pokemon/0122_mr_mime_galarian.png"
         },
         {
             "pokedex_number": "0128",
