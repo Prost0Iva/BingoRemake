@@ -34,3 +34,21 @@
     color: #1E1E1E;
     background-color: #777777;
 }
+.black_list {
+    font-family: 'Bingo';
+    font-size: 16px;
+    color: #b16e6e;
+    background-color: #6b2121;
+    margin-right: 8px;
+
+    text-align: center;
+    box-sizing: border-box;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+}.black_list:hover {
+    color: #b16e6e;
+    background-color: #6b2121;
+}

@@ -20,8 +20,9 @@ header {
 }
 
 main {
-    display: grid;
-    justify-items: center;
+        display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
 }
 #bingo_card {
     display: flex;

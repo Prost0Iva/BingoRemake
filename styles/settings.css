@@ -1,0 +1,12 @@
+#settings {
+    display: grid;
+    text-align: center;
+    align-content: start;
+}
+#settings p {
+    margin: 0;
+}
+.button_settings {
+    height: 50px;
+    margin: 5px;
+}
