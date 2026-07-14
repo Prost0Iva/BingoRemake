@@ -1,5 +1,5 @@
 .bingo_cell{
-    background-image: url('assets/img/UI/cell.png');
+    background-image: url('../assets/img/UI/cell.png');
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -8,7 +8,7 @@
     flex-direction: column;
 }
 .completed {
-    background-image: url('assets/img/UI/cell_completed.png');
+    background-image: url('../assets/img/UI/cell_completed.png');
 }
 #buttons {
     display: flex;
