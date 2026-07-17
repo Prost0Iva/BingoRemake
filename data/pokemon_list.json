@@ -6221,57 +6221,6 @@
             "img": "assets/img/pokemon/0861_grimmsnarl.png"
         },
         {
-            "pokedex_number": "0862",
-            "name": "Obstagoon",
-            "type": [
-                "dark",
-                "normal"
-            ],
-            "img": "assets/img/pokemon/0862_obstagoon.png"
-        },
-        {
-            "pokedex_number": "0863",
-            "name": "Perrserker",
-            "type": [
-                "steel"
-            ],
-            "img": "assets/img/pokemon/0863_perrserker.png"
-        },
-        {
-            "pokedex_number": "0864",
-            "name": "Cursola",
-            "type": [
-                "ghost"
-            ],
-            "img": "assets/img/pokemon/0864_cursola.png"
-        },
-        {
-            "pokedex_number": "0865",
-            "name": "Sirfetch'd",
-            "type": [
-                "fighting"
-            ],
-            "img": "assets/img/pokemon/0865_sirfetchd.png"
-        },
-        {
-            "pokedex_number": "0866",
-            "name": "Mr. Rime",
-            "type": [
-                "ice",
-                "psychic"
-            ],
-            "img": "assets/img/pokemon/0866_mr_rime.png"
-        },
-        {
-            "pokedex_number": "0867",
-            "name": "Runerigus",
-            "type": [
-                "ground",
-                "ghost"
-            ],
-            "img": "assets/img/pokemon/0867_runerigus.png"
-        },
-        {
             "pokedex_number": "0868",
             "name": "Milcery",
             "type": [
@@ -6415,24 +6364,6 @@
                 "ghost"
             ],
             "img": "assets/img/pokemon/0902_basculegion.png"
-        },
-        {
-            "pokedex_number": "0903",
-            "name": "Sneasler",
-            "type": [
-                "fighting",
-                "poison"
-            ],
-            "img": "assets/img/pokemon/0903_sneasler.png"
-        },
-        {
-            "pokedex_number": "0904",
-            "name": "Overqwil",
-            "type": [
-                "dark",
-                "poison"
-            ],
-            "img": "assets/img/pokemon/0904_overqwil.png"
         },
         {
             "pokedex_number": "0906",
@@ -7060,15 +6991,6 @@
                 "ghost"
             ],
             "img": "assets/img/pokemon/0979_annihilape.png"
-        },
-        {
-            "pokedex_number": "0980",
-            "name": "Clodsire",
-            "type": [
-                "poison",
-                "ground"
-            ],
-            "img": "assets/img/pokemon/0980_clodsire.png"
         },
         {
             "pokedex_number": "0981",
@@ -8105,6 +8027,84 @@
                 "fighting"
             ],
             "img": "assets/img/pokemon/0724_decidueye_hisuian.png"
+        },
+        {
+            "pokedex_number": "0863",
+            "name": "Perrserker",
+            "type": [
+                "steel"
+            ],
+            "img": "assets/img/pokemon/0863_perrserker.png"
+        },
+        {
+            "pokedex_number": "0864",
+            "name": "Cursola",
+            "type": [
+                "ghost"
+            ],
+            "img": "assets/img/pokemon/0864_cursola.png"
+        },
+        {
+            "pokedex_number": "0903",
+            "name": "Sneasler",
+            "type": [
+                "fighting",
+                "poison"
+            ],
+            "img": "assets/img/pokemon/0903_sneasler.png"
+        },
+        {
+            "pokedex_number": "0904",
+            "name": "Overqwil",
+            "type": [
+                "dark",
+                "poison"
+            ],
+            "img": "assets/img/pokemon/0904_overqwil.png"
+        },
+        {
+            "pokedex_number": "0865",
+            "name": "Sirfetch'd",
+            "type": [
+                "fighting"
+            ],
+            "img": "assets/img/pokemon/0865_sirfetchd.png"
+        },
+        {
+            "pokedex_number": "0866",
+            "name": "Mr. Rime",
+            "type": [
+                "ice",
+                "psychic"
+            ],
+            "img": "assets/img/pokemon/0866_mr_rime.png"
+        },
+        {
+            "pokedex_number": "0862",
+            "name": "Obstagoon",
+            "type": [
+                "dark",
+                "normal"
+            ],
+            "img": "assets/img/pokemon/0862_obstagoon.png"
+        },
+        {
+            "pokedex_number": "0867",
+            "name": "Runerigus",
+            "type": [
+                "ground",
+                "ghost"
+            ],
+            "img": "assets/img/pokemon/0867_runerigus.png"
+        },
+        {
+            "pokedex_number": "0980",
+            "name": "Clodsire",
+            "type": [
+                "poison",
+                "ground"
+            ],
+            "img": "assets/img/pokemon/0980_clodsire.png"
         }
     ],
     "legendary": [
